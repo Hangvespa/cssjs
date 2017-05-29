@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='Piaggiovespahaibatrung.blogspot.com' target='_blank'><img src='' width='500px'/><br/>Học SEO chuyên sâu</a>. 96 phố huế 0944898285. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='Piaggiovespahaibatrung.blogspot.com' target='_blank'><img src='http://www.topcom.com.vn/data/upload/abcd.png' width='500px'/><br/>Học SEO chuyên sâu</a>. 96 phố huế 0944898285. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
